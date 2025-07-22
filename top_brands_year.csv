@@ -1,4 +1,4 @@
-﻿Category,Бренд,Заказано на сумму,Динамика суммы заказов,Заказано товаров,Средняя цена,Динамика средней цены,Число продавцов,Число кластеров,Доля выкупа,Доля в категории
+﻿Category,Brand,Ordered_total,Orders_total_dynamics,Products_ordered,Average_price,Average_price_dynamics,Number_of_sellers,Number_of_clusters,Redeemed_orders_share,Share_in_category
 18+_Confectionery_Products,Chocolovers,2945518,4.27,5246,561,0.74,1,26,0.902,0.171
 18+_Confectionery_Products,Фабрика страсти,2830515,5.55,11166,253,0.03,6,27,0.9329999999999999,0.16399999999999998
 18+_Confectionery_Products,DaroLand,1502644,0.07,2814,534,0.2,1,25,0.91,0.087
@@ -21933,7 +21933,7 @@ Industrial_Equipment_and_Components,Красный Маяк,1359408,1.08,61,2228
 Industrial_Equipment_and_Components,NQK SF,1317833,22.59,3770,350,0.86,8,27,0.9079999999999999,0.001
 Industrial_Equipment_and_Components,Henkel,1312760,—,69,19026,0,1,12,0.9279999999999999,0.001
 Industrial_Equipment_and_Components,ABB,1302986,288.55,272,4790,0.06,17,21,0.915,0.001
-Industrial_Equipment_and_Components,,1233757,—,814,1516,0,19,16,0.805,0.001
+Industrial_Equipment_and_Components,Brand Not Available,1233757,—,814,1516,0,19,16,0.805,0.001
 Industrial_Equipment_and_Components,DOERSUP,1199961,2.04,15,79997,1.23,1,10,0.9329999999999999,0.001
 Industrial_Equipment_and_Components,HALKAN,1174708,-0.28,279,4210,-0.27,1,22,0.932,0.001
 Industrial_Equipment_and_Components,Devcon,1172126,—,109,10753,0,4,15,0.89,0.001
@@ -31818,7 +31818,7 @@ Parking_Equipment,Terisass,42684,-0.35,224,191,-0.9,1,17,0.866,0
 Parking_Equipment,J1NSANGE,42463,—,10,4246,0,2,2,0.5,0
 Parking_Equipment,СК-ПОЛИМЕРЫ,40520,—,8,5065,0,1,1,1,0
 Parking_Equipment,ZNAK 23,39134,—,44,889,0,1,6,0.75,0
-Parking_Equipment,,38615,—,32,1207,0,1,8,0.75,0
+Parking_Equipment,Brand Not Available,38615,—,32,1207,0,1,8,0.75,0
 Parking_Equipment,Heyner,35226,-0.13,14,2516,0.24,1,10,0.7859999999999999,0
 Parking_Equipment,ASPRO,32000,—,1,32000,0,1,1,1,0
 Parking_Equipment,Магнито-Контакт,30000,—,3,10000,0,1,2,1,0
@@ -35939,7 +35939,7 @@ Queen_Bee_Rearing,Charming goods,3951,-0.94,8,494,-0.62,1,3,0.25,0
 Queen_Bee_Rearing,Bienenhaus,2293,—,6,382,0,1,5,1,0
 Queen_Bee_Rearing,Мирный Ромашка,1682,-0.94,1,1682,-0.03,1,1,1,0
 Queen_Bee_Rearing,DAELIA,1341,—,1,1341,0,1,1,1,0
-Queen_Bee_Rearing,,1341,—,6,224,0,1,5,0.833,0
+Queen_Bee_Rearing,Brand Not Available,1341,—,6,224,0,1,5,0.833,0
 Queen_Bee_Rearing,Lyson Russia,1300,—,1,1300,0,1,1,1,0
 Queen_Bee_Rearing,Friyu,569,—,1,569,0,1,1,0,0
 Queen_Bee_Rearing,Ароматная камелия,379,—,1,379,0,1,1,1,0
